@@ -19,19 +19,28 @@ The data consists of 48x48 pixel grayscale images of faces. The faces have been 
 `Training Set : 28,709 Images` <br/>
 `Validation Set : 3,589 Images`
 
+This is what the data looks like : <br/>
+![Image1](https://github.com/Aishwarya4823/Face-Expression-Recognition-in-Keras/blob/master/Images/Dataset_Input.PNG)
+
 # Model
 This model is inspired by:<br/>
 Challenged in representation learning: A report of three machine learning contests. *Neural Networks*, 64, 59-63. [doi:10.1016/j.neunet.2014.09.005](https://arxiv.org/pdf/1307.0414.pdf)
  
 I have tried to implement the same model as mentioned in this paper. It looks as follows:<br/>
-image 
+![Image4](https://github.com/Aishwarya4823/Face-Expression-Recognition-in-Keras/blob/master/Images/model.png)
+
 
 # Result
 The winner of this Kaggle competition achieved an accuracy of 0.71161. My model, achieves an accuracy of 0.6318.<br/>
 <br/>
-Following are a few outputs of the classification model:
-image
-image
+Following are a few outputs of the classification model:</br>
+**Happy**<br/>
+![Image2](https://github.com/Aishwarya4823/Face-Expression-Recognition-in-Keras/blob/master/Images/happy.PNG)
+<br/>
+<br/>
+**Surprised**<br/>
+![Image3](https://github.com/Aishwarya4823/Face-Expression-Recognition-in-Keras/blob/master/Images/Surprised.PNG)
+
 
 # How to Run
 - Download this repository
@@ -39,3 +48,4 @@ image
 - Run, through your command prompt, `python3 main.py`
 - View the results on `0.0.0.0.5000/`
 
+To view the complete code, please have a look at the following: 
