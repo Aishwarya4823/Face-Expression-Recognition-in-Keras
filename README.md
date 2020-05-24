@@ -34,11 +34,11 @@ I have tried to implement the same model as mentioned in this paper. It looks as
 The winner of this Kaggle competition achieved an accuracy of 0.71161. My model, achieves an accuracy of 0.6318.<br/>
 <br/>
 Following are a few outputs of the classification model:</br>
-**Happy**<br/>
+**Ground Truth : Happy**<br/>
 ![Image2](https://github.com/Aishwarya4823/Face-Expression-Recognition-in-Keras/blob/master/Images/happy.PNG)
 <br/>
 <br/>
-**Surprised**<br/>
+**Group Truth : Surprised**<br/>
 ![Image3](https://github.com/Aishwarya4823/Face-Expression-Recognition-in-Keras/blob/master/Images/Surprised.PNG)
 
 
