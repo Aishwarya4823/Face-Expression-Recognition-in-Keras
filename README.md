@@ -48,4 +48,5 @@ Following are a few outputs of the classification model:</br>
 - Run, through your command prompt, `python3 main.py`
 - View the results on `0.0.0.0.5000/`
 
-To view the complete code, please have a look at the following: 
+To view the complete code, please have a look at the following:
+https://drive.google.com/drive/folders/11SbvwIC8UNNdQ85CqdJZA4qa7gZaAFBp?usp=sharing
